@@ -1,4 +1,5 @@
-# git-mi-aprendizaje
-Estoy aprendiendo a usar git para mis futuros proyectos
-
 Simplemento aprendiendo a usar git y github
+# git-mi-aprendizaje
+2
+Estoy aprendiendo a usar git para mis futuros proyectos
+3
